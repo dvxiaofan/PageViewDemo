@@ -1,2 +1,8 @@
-# PageViewDemo
-类似于新闻类首页多页面滑动和 title 点击滑动的效果实现. Xcode8.0 + Swift3.0
+
+## 效果展示
+
+![效果展示](http://o7mwf03sy.bkt.clouddn.com/demo.gif)
+
+## 个人技术博客
+http://devxiaofan.com
+
